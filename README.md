@@ -2,7 +2,7 @@
 
 
 ```javascript
-const Naveen = {
+const Matheus = {
     code: ["Javascript", "PHP", "ReactJS"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "The Beatles", "Movies"],
     technologies: {
