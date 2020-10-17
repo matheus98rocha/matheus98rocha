@@ -2,7 +2,7 @@
 
 ```javascript
 const Matheus = {
-    code: ["Javascript", "PHP", "ReactJS"],
+    code: ["Javascript", "PHP", "ReactJS","HTML","CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "The Beatles", "Movies"],
     technologies: {
        mobileApp: ["Android App"],
