@@ -5,11 +5,10 @@ const Matheus = {
     code: ["Javascript", "PHP", "ReactJS","HTML","CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "The Beatles", "Movies"],
     technologies: {
-       mobileApp: ["Android App"],
        backEnd: {
             js: ["node"],
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "sqlite", "mongodb],
     },
     Always remember: "Don't Panic"
 };
