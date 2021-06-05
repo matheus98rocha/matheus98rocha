@@ -13,9 +13,6 @@ const Matheus = {
     Always remember: "Don't Panic"
 };
 ```
-[![Matheus Gonçalves Rocha GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus98rocha&show_icons=true&count_private=true)](https://github.com/matheus98rocha)
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
