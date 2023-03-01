@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on BRQ Digital Solutions <br>🌱 I’m currently learning React Native<br>💬 Ask me about Music and Programming
 
 
